@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cicada3301110
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning medical and Python langage 😂
+- 🌱 I’m currently learning medical and Python language 😂
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me : 👇 
 - 📫 My Gmail addresse : Cicada.3301.M.A.110@gmail.com
