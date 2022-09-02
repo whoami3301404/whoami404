@@ -6,4 +6,3 @@
 
 <h4 align="center">I'm a medical student and a Front-End Developer 🧑🏻‍💻🌍</h4>
 <h4 align="center">I am also interested in Artificial Intelligence</h4>
-<h4 align="center">I'm a Front-End Developer</h4>
