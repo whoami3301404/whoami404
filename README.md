@@ -4,8 +4,8 @@
 
 <h1 align="center">How am I ? 🤔🧑🏻‍💻<h1>
 
-<h3 align="center">I'm a medical student 🩺🧬 and a Front-End Developer 🧑🏻‍💻🌍</h3>
-<h3 align="center">And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐🌍</h3>
+<h3 align="center">✅✔️I'm a medical student 🩺🧬 and a Front-End Developer 🧑🏻‍💻🌍</h3>
+<h3 align="center">And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐✅✔️</h3>
 <h3 align="center">I am also interested in Artificial Intelligence 🧠🤖</h3>
 <h3 align="center">I have been working in this field since 2019 📆🧑🏻‍💻</h3>
 
