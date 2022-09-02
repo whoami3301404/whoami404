@@ -8,4 +8,4 @@
 <h3 align="center">I am also interested in Artificial Intelligence 🧠🤖</h3>
 <h3 align="center">I have been working in this field since 2019 📆🧑🏻‍💻</h3>
 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+<div align="right">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</div>
