@@ -94,8 +94,9 @@
 
 <hr>
 
-<h2>How to reach me :</h2>
+<h2>📧 How to reach me :</h2>
 
 <a href="https://www.instagram.com/cicada_techno_news/" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram" width="32px" height="32px"></a>
 <a href="https://www.youtube.com/channel/UCLwuBReGQ9xZBAYR5xij9SQ" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/youtube_logo_icon_168737.png?raw=true" alt="youtube" width="32px" height="32px"></a>
+<a href="https://t.me/cicada313" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/telegram_macos_bigsur_icon_189662.png?raw=true" alt="youtube" width="32px" height="32px"></a>
 <a href="https://codepen.io/cicada3301110" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/social_media_codepen_code_logo_icon_187296.png?raw=true" alt="youtube" width="32px" height="32px"></a>
