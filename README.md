@@ -4,10 +4,10 @@
 
 <h1 align=center>⭐ Hi Everyone !👋 I'm Cicada 3301 🧑🏻‍💻🏴‍☠</h1>
 
-<h3 align="center">✔️ I'm a Medical Student 🩺🧬 and a Front-End Developer 🧑🏻‍💻🌍</h3>
-<h3 align="center">✔️ And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐</h3>
-<h3 align="center">✔️ I am also interested in Artificial Intelligence 🧠🤖</h3>
-<h3 align="center">✔️ I have been working in this field since 2019 📆🧑🏻‍💻</h3>
+<h3 >✔️ I'm a Medical Student 🩺🧬 and a Front-End Developer 🧑🏻‍💻🌍</h3>
+<h3 >✔️ And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐</h3>
+<h3 >✔️ I am also interested in Artificial Intelligence 🧠🤖</h3>
+<h3 >✔️ I have been working in this field since 2019 📆🧑🏻‍💻</h3>
 
 <hr>
 
@@ -90,4 +90,4 @@
 
 <h2>⁉️ Why did I never use 100% ?<h2>
 
-<h3>Because there is no such thing as 100% in the world of science !<h3>
+<h3 align="center"><b>Because there is no such thing as 100% in the world of science !</b><h3>
