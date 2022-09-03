@@ -32,6 +32,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-<h2>The languages I know or am learning are :<h2>
+<h2>🎓🧑🏻‍💻 The languages I know or am learning are :<h2>
 
-<progress max="100" value="50"></progress>
+<h2>🌐 Html | 99%</h2>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar">
