@@ -91,3 +91,11 @@
 <h2>⁉️ Why did I never use 100% ?<h2>
 
 <h3 align="center"><b>Because there is no such thing as 100% in the world of science !</b><h3>
+
+<hr>
+
+<h2>How to reach me :</h2>
+
+<a href="https://www.instagram.com/cicada_techno_news/" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram"></img></a>
+
+<a href="https://www.youtube.com/channel/UCLwuBReGQ9xZBAYR5xij9SQ" target="_blank"><img src="" alt="youtube"></img></a>
