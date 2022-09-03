@@ -4,7 +4,7 @@
 
 <h1 align=center>⭐ Hi Everyone !👋 I'm Cicada 3301 🧑🏻‍💻🏴‍☠</h1>
 
-<h3 align="center">✔️ I'm a medical student 🩺🧬 and a Front-End Developer 🧑🏻‍💻🌍</h3>
+<h3 align="center">✔️ I'm a Medical Student 🩺🧬 and a Front-End Developer 🧑🏻‍💻🌍</h3>
 <h3 align="center">✔️ And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐</h3>
 <h3 align="center">✔️ I am also interested in Artificial Intelligence 🧠🤖</h3>
 <h3 align="center">✔️ I have been working in this field since 2019 📆🧑🏻‍💻</h3>
@@ -28,6 +28,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -38,7 +39,7 @@
 
 <hr>
 
-<h2>🎓🧑🏻‍💻 The languages I know or am learning are :<h2>
+<h2>🎓🧑🏻‍💻 The Languages and Ability I know or am learning are :<h2>
 
 <h3>🌐 HTML 5 | 99%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
@@ -55,11 +56,32 @@
 <h3>🌐 Python | 30%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
 
-<h3>🌐 bootstrap | 1%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="5px" height="16px" style="border-radius: 25px;">
+<h3>🌐 bootstrap | 10%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
 
 <h3>🌐 Git | 99%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
 
 <h3>🌐 NPM | 99%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+
+<h3>🌐 NodeJS | 20%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="100px" height="16px">
+
+<h3>🌐 VueJS | 10%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
+
+<h3>🌐 JQuery | 60%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="300px" height="16px">
+
+<h3>🌐 Ajax | 50%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
+
+<h3>🌐 Kali Linux | 60%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="300px" height="16px">
+
+<h3>🌐 Adobe Photoshop | 50%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
+
+<h3>🌐 Adobe Premiere Pro | 50%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
