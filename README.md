@@ -86,5 +86,8 @@
 <h3>🌐 Adobe Premiere Pro | 50%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
 
+<hr>
+
 <h2>⁉️ Why did I never use 100% ?<h2>
+
 <h3>Because there is no such thing as 100% in the world of science !<h3>
