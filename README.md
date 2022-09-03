@@ -96,6 +96,6 @@
 
 <h2>How to reach me :</h2>
 
-<a href="https://www.instagram.com/cicada_techno_news/" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram" width="32px" height="32px"></img></a>
+<a href="https://www.instagram.com/cicada_techno_news/" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram" width="32px" height="32px"></a>
 
-<a href="https://www.youtube.com/channel/UCLwuBReGQ9xZBAYR5xij9SQ" target="_blank"><img src="" alt="youtube"></img></a>
+<a href="https://www.youtube.com/channel/UCLwuBReGQ9xZBAYR5xij9SQ" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/youtube.png?raw=true" alt="youtube" width="32px" height="20px"></a>
