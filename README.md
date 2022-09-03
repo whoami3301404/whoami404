@@ -56,7 +56,7 @@
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
 
 <h3>🌐 bootstrap | 1%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="5px" height="16px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="5px" height="16px" style="border-radius: 5px;">
 
 <h3>🌐 Git | 99%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
