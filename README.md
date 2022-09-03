@@ -9,10 +9,11 @@
 <h3 align="center">✔️ I am also interested in Artificial Intelligence 🧠🤖</h3>
 <h3 align="center">✔️ I have been working in this field since 2019 📆🧑🏻‍💻</h3>
 
-<br>
 <hr>
 
 <h2>🛠️ My Ability and Tools :</h2>
+
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
