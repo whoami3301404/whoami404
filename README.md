@@ -9,7 +9,7 @@
 <h3 align="center">✔️ I am also interested in Artificial Intelligence 🧠🤖</h3>
 <h3 align="center">✔️ I have been working in this field since 2019 📆🧑🏻‍💻</h3>
 
-<hr>
+<br>
 
 <h2>🛠️ My Ability and Tools :</h2>
 
