@@ -1,4 +1,4 @@
-<h1 align="center">⁉️❓ How am I ? 🤔🧑🏻‍💻<h1>
+<h1 align="center">⁉️ How am I ? 🤔🧑🏻‍💻<h1>
 
 <img src="https://raw.githubusercontent.com/Cicada3301110/Cicada3301110/88e6a17a14ad43c5800e15e39961bcbd38532d45/Files/repository.svg" alt="github">
 
@@ -41,25 +41,25 @@
 <h2>🎓🧑🏻‍💻 The languages I know or am learning are :<h2>
 
 <h3>🌐 HTML 5 | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
 
 <h3>🌐 CSS 3 | 85%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="425px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="425px" height="16px">
 
 <h3>🌐 JavaScript | 35%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="175px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="175px" height="16px">
 
 <h3>🌐 PHP | 15%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="75px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="75px" height="16px">
 
 <h3>🌐 Python | 30%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
 
 <h3>🌐 bootstrap | 1%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="5px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="5px" height="16px">
 
 <h3>🌐 Git | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
 
 <h3>🌐 NPM | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px">
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
