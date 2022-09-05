@@ -56,6 +56,9 @@
 <h3>🌐 Python | 30%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
 
+<h3>🌐 MySQL | 10%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
+
 <h3>🌐 bootstrap | 10%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
 
