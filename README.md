@@ -45,8 +45,8 @@
 <h3>🌐 HTML 5 | 99%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
 
-<h3>🌐 CSS 3 | 85%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="425px" height="16px">
+<h3>🌐 CSS 3 | 99%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
 
 <h3>🌐 JavaScript | 35%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="175px" height="16px">
