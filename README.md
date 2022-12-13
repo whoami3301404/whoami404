@@ -48,17 +48,17 @@
 <h3>🌐 CSS 3 | 99%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
 
-<h3>🌐 JavaScript | 35%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="175px" height="16px">
+<h3>🌐 JavaScript | 50%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
 
 <h3>🌐 PHP | 15%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="75px" height="16px">
 
-<h3>🌐 Python | 30%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
+<h3>🌐 Python | 50%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
 
-<h3>🌐 MySQL | 10%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
+<h3>🌐 MySQL | 20%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="100px" height="16px">
 
 <h3>🌐 bootstrap | 10%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
@@ -72,17 +72,17 @@
 <h3>🌐 NodeJS | 20%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="100px" height="16px">
 
-<h3>🌐 VueJS | 10%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="50px" height="16px">
+<h3>🌐 VueJS | 15%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="75px" height="16px">
 
-<h3>🌐 JQuery | 60%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="300px" height="16px">
+<h3>🌐 JQuery | 80%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="400px" height="16px">
 
 <h3>🌐 Ajax | 50%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
 
-<h3>🌐 Kali Linux | 60%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="300px" height="16px">
+<h3>🌐 Kali Linux | 80%</h3>
+<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="400px" height="16px">
 
 <h3>🌐 Adobe Photoshop | 50%</h3>
 <img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
