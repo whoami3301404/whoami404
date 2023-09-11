@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Cicada3301110/Cicada3301110/88e6a17a14ad43c5800e15e39961bcbd38532d45/Files/repository.svg" alt="github" align="center">
 
-<h1 align=center>⭐ Hi Everyone !👋 I'm Mahdi Adham 🧑🏻‍💻🏴‍☠</h1>
+<h1 align=center>⭐ Hi Everyone !👋</h1>
 
 <h3 >✔️ I'm a Front-End Developer 🧑🏻‍💻🌍</h3>
 <h3 >✔️ And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐</h3>
