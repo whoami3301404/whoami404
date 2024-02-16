@@ -11,6 +11,22 @@
 
 <hr>
 
+<h5>🌐 Web Developer</h5>
+
+<h5>✔️ Interested in web and website development</h5>
+
+<h5>It was the middle of the summer of 2019 when I started my work with Python, but after a year or two, I realized that my talent is in the field of web and website design. So to myself, I trusted and entered this field, and thank God I have made good progress in this field and I have reached the point where I am now. I have always adhered to one principle and that principle is that there is never an end point in learning! So keeping the information updated is one of my main duties as a programmer.</h5>
+
+<h5>. 3 years of experience in web development</h5>
+<h5>. Getting to know the principles of clean coding and commenting</h5>
+<h5>. Ability to work with cross-functional teams incl</h5>
+<h5>. Designers, programmers, and project managers</h5>
+<h5>. Strong communication and interpersonal skills</h5>
+<h5>. Skilled in testing and troubleshooting website problems in different browsers and platforms</h5>
+<h5>. Excellent problem-solving and debugging skills</h5>
+
+<hr>
+
 <h2>🛠️ My Ability and Tools :</h2>
 
 <br>
@@ -39,70 +55,49 @@
 
 <hr>
 
-<h2>🎓🧑🏻‍💻 The Languages and Ability I know or am learning are :<h2>
+<h2>🎓🧑🏻‍💻 The Languages and Abilities I know or am learning are :<h2>
 
-<h3>🌐 HTML 5 | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 HTML 5</h3>
 
-<h3>🌐 CSS 3 | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 CSS 3</h3>
 
-<h3>🌐 Tailwind | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 Tailwind</h3>
 
-<h3>🌐 bootstrap | 30%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
+<h3>🌐 bootstrap</h3>
   
-<h3>🌐 FlexBox | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 FlexBox</h3>
   
-<h3>🌐 CSS Grid | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 CSS Grid</h3>
 
-<h3>🌐 JavaScript | 60%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="300px" height="16px">
+<h3>🌐 JavaScript</h3>
 
-<h3>🌐 PHP | 15%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="75px" height="16px">
+<h3>🌐 Regex</h3>
 
-<h3>🌐 Python | 30%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="150px" height="16px">
+<h3>🌐 PHP</h3>
 
-<h3>🌐 Git | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 Python</h3>
 
-<h3>🌐 NPM | 99%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="495px" height="16px">
+<h3>🌐 Git</h3>
 
-<h3>🌐 NodeJS | 20%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="100px" height="16px">
+<h3>🌐 NPM</h3>
 
-<h3>🌐 VueJS | 15%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="75px" height="16px">
+<h3>🌐 NodeJS</h3>
 
-<h3>🌐 JQuery | 80%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="400px" height="16px">
+<h3>🌐 VueJS</h3>
 
-<h3>🌐 Kali Linux | 50%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
+<h3>🌐 JQuery</h3>
 
-<h3>🌐 Adobe Photoshop | 50%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
+<h3>🌐 Kali Linux</h3>
 
-<h3>🌐 Adobe Premiere Pro | 50%</h3>
-<img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/bar.png?raw=true" alt="bar" width="250px" height="16px">
+<h3>🌐 Adobe Photoshop</h3>
 
-<hr>
-
-<h2>⁉️ Why did I never use 100% ?<h2>
-
-<h3 align="center"><b>Because there is no such thing as 100% in the world of science !</b><h3>
+<h3>🌐 Adobe Premiere Pro</h3>
 
 <hr>
 
 <h2>📧 How to reach me :</h2>
 
-<a href="https://www.instagram.com/megatron_3301" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram" width="32px" height="32px"></a>
+<a href="https://www.instagram.com/mahdi.a3301" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram" width="32px" height="32px"></a>
 <a href="https://youtube.com/@whoami_3301" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/youtube_logo_icon_168737.png?raw=true" alt="youtube" width="32px" height="32px"></a>
-<a href="https://t.me/whoami_313" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/telegram_macos_bigsur_icon_189662.png?raw=true" alt="youtube" width="32px" height="32px"></a>
+<a href="https://t.me/dradham3301" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/telegram_macos_bigsur_icon_189662.png?raw=true" alt="youtube" width="32px" height="32px"></a>
 <a href="https://codepen.io/cicada3301110" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/social_media_codepen_code_logo_icon_187296.png?raw=true" alt="youtube" width="32px" height="32px"></a>
